@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Este proyecto consiste en una página web basada en texto que documenta las actividades rurales diarias, el cuidado de animales de granja, el mantenimiento de frutales y las caminatas por las montañas.
+Este proyecto consiste en una página web basada en texto que documenta las actividades rurales diarias, el cuidado de animales de granja, el mantenimiento de frutales y las caminatas por las montañas. Su propósito principal es reflejar la conexión con la naturaleza y la vida en la zona rural.
 
 ## Objetivo
 
@@ -17,10 +17,16 @@ Organizar y estructurar un repositorio digital utilizando Git y GitHub, aplicand
   * `index.html`: Archivo principal con el contenido en texto.
   * `styles/styles.css`: Hoja de estilos para el diseño visual en carpeta aparte.
 
+## Tecnologías Utilizadas
+
+* **Git y GitHub:** Control de versiones y gestión de repositorio remoto.
+* **HTML5:** Estructuración del contenido web.
+* **CSS3:** Diseño y estilos visuales.
+
 ## Autor
 
 Juan Andrés Cano Campos
 
 ## Estado del proyecto
 
-Finalizado
+Finalizado.
