@@ -11,7 +11,7 @@
 
 - Repositorio de GitHub:[github.com/jacano1010-dot/tp-integrador-git-juan-andres-cano-campos.git](https://github.com/jacano1010-dot/tp-integrador-git-juan-andres-cano-campos.git)
 - Issue: [github.com/jacano1010-dot/tp-integrador-git-juan-andres-cano-campos/issues/1#issue-6154441873](https://github.com/jacano1010-dot/tp-integrador-git-juan-andres-cano-campos/issues/1#issue-6154441873)
-- Pull request:
+- Pull request: [github.com/jacano1010-dot/tp-integrador-git-juan-andres-cano-campos/pulls?q=is%3Apr+state%3Aopen](https://github.com/jacano1010-dot/tp-integrador-git-juan-andres-cano-campos/pulls?q=is%3Apr+state%3Aopen)
 
 ## Comandos principales utilizados
 
