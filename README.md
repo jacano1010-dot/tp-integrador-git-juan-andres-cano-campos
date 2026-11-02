@@ -1,3 +1,4 @@
+
 # Proyecto: Vida en el Campo y Paisajes de Montaña
 
 ## Descripción
@@ -14,7 +15,7 @@ Organizar y estructurar un repositorio digital utilizando Git y GitHub, aplicand
 * `ENTREGA.md`: Registro del proceso de trabajo y comandos utilizados.
 * `proyecto/`: Carpeta que contiene los archivos principales de la web.
   * `index.html`: Archivo principal con el contenido en texto.
-  * `styles.css`: Hoja de estilos para el diseño visual.
+  * `styles/styles.css`: Hoja de estilos para el diseño visual en carpeta aparte.
 
 ## Autor
 
